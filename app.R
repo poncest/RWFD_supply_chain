@@ -107,7 +107,8 @@ server <- function(input, output, session) {
           "To cite this dashboard:",
           tags$br(),
           "Ponce, S. (2024). RWFD Supply Chain Dashboard [Shiny Application]. ",
-          tags$a(href = "https://github.com/your-repo", "https://github.com/your-repo", target = "_blank")
+          tags$a(href = "https://github.com/poncest/RWFD_supply_chain", 
+                 "https://github.com/poncest/RWFD_supply_chain", target = "_blank")
         ),
         tags$hr(),
         
